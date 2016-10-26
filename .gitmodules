@@ -4,3 +4,6 @@
 [submodule "django-py3-sql-server"]
 	path = django-py3-sql-server
 	url = https://github.com/FlipperPA/django-python3-vagrant.git
+[submodule "swift"]
+	path = swift
+	url = https://github.com/mpclarkson/perfect-swift-linux.git
