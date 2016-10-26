@@ -1,0 +1,3 @@
+[submodule "hadoop"]
+	path = hadoop
+	url = https://github.com/zsiciarz/vagrant-hbase.git
