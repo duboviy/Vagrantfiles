@@ -7,3 +7,6 @@
 [submodule "swift"]
 	path = swift
 	url = https://github.com/mpclarkson/perfect-swift-linux.git
+[submodule "languages"]
+	path = languages
+	url = https://github.com/adlawson/vagrantfiles.git
