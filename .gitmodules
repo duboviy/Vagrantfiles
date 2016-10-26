@@ -1,3 +1,6 @@
 [submodule "hadoop"]
 	path = hadoop
 	url = https://github.com/zsiciarz/vagrant-hbase.git
+[submodule "django-py3-sql-server"]
+	path = django-py3-sql-server
+	url = https://github.com/FlipperPA/django-python3-vagrant.git
